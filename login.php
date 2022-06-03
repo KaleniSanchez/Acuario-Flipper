@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/pez.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="login.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https: //fonts.googleapis.com/css2? family = Open + Sans & display = swap " rel=" stylesheet ">
@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <a href="slideshow.html">Slideshow</a>
         <a href="about-us.html">Quienes somos</a>
         <a href="Form.html">Formulario</a>
-        <a href="login.html">Inicia sesion</a>
+        <a href="login.php">Inicia sesion</a>
     </nav>
 </header>  
                 
