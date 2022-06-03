@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Acuario Flipper | Quienes somos</title>
     <link rel="shortcut icon" href="img/pez.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/about-us.css">
+    <link rel="stylesheet" href="about-us.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https: //fonts.googleapis.com/css2? family = Open + Sans & display = swap " rel=" stylesheet ">
