@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/pez.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="login.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https: //fonts.googleapis.com/css2? family = Open + Sans & display = swap " rel=" stylesheet ">
@@ -68,7 +68,7 @@
 
                         <input type="submit" value="Enviar" class="button">
                         <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
-                        <p>¿Ya tienes una cuenta?<a class="link" href="login.html">Iniciar Sesion</a></p>
+                        <p>¿Ya tienes una cuenta?<a class="link" href="login.php">Iniciar Sesion</a></p>
                     </div>
                     <hr>
                 </form>
